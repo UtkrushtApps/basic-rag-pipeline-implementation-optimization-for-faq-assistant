@@ -1,0 +1,10 @@
+1. How do I recover my account if I lost both password and 2FA device?
+2. Can I get a refund for my annual subscription after two weeks?
+3. What encryption standards are used for customer data at rest?
+4. How do I submit feedback or request product features?
+5. Which programming languages are supported by the official SDKs?
+6. What are the channels available for technical support requests?
+7. How do users update their email address?
+8. What is the process for batch importing data via the API?
+9. How does usage-based billing reset and what are the limits?
+10. Where can account owners find downloadable invoices?
