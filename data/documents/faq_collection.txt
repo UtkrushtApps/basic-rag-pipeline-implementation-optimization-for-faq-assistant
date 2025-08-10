@@ -1,0 +1,43 @@
+FAQ Knowledge Base: AI-Generated Example
+
+---
+
+General
+Q: What are the platform support channels?
+A: You can contact support via email, live chat, or the support ticket system. Response time varies by channel and account tier.
+
+Account
+Q: How do I reset a forgotten password?
+A: Click 'Forgot Password' on the login page and follow the instructions sent to your email. If you don't receive a reset email, check your spam folder.
+
+Q: Can users update email addresses themselves?
+A: Yes, users can change emails from account settings. Confirm with the emailed verification link.
+
+Security
+Q: How is my data protected?
+A: All data is encrypted in transit (TLS) and at rest (AES-256). Two-factor authentication is available for enterprise accounts.
+
+Billing
+Q: Where can I view my invoices?
+A: Invoices are found in the billing portal, accessible via your dashboard. Export as PDF or CSV for records.
+
+Q: Are refunds available for annual plans?
+A: Refunds are only available if requested within 14 days of purchase. After that, all sales are final, as per our terms of service.
+
+Product
+Q: How do I suggest a new feature?
+A: Use the product feedback form linked in the Help menu. All suggestions are reviewed monthly by the product team.
+
+Q: Does the API support batch imports?
+A: Yes, batch import endpoints are available with detailed JSON schema in the API docs. Rate limits apply per account type.
+
+Technical
+Q: What programming languages are supported for SDKs?
+A: SDKs are available for Python, JavaScript, and Go. Community-contributed SDKs are provided as-is without official support.
+
+Q: How does usage-based billing work?
+A: Usage is tracked by API call volume and data transfer. Details can be viewed per endpoint and reset monthly.
+
+(… repeat and expand with at least 40 more Q&A covering onboarding, payments, GDPR/CCPA, PII handling, cancellations, troubleshooting, role management, feature launches, roadmap transparency...)
+
+Each Q&A is chunked with overlap and tagged with category, doc_id, and chunk_index in metadata. Full corpus size >25,000 chars.
