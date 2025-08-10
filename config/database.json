@@ -1,0 +1,4 @@
+{
+  "chromadb_dir": "chromadb",
+  "collection": "faq_kb"
+}
